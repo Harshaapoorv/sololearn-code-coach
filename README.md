@@ -18,7 +18,7 @@ Solutions of code coach problems of Sololearn in various programming languages w
       <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/problems/Popsicles.txt" target="new">Popsicles</a>
     </td>
     <td>
-      <a></a>
+      <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/c-solutions/popsicles.c" target="_new">C Solution</a>
     </td>
     <td>
       <a></a>
