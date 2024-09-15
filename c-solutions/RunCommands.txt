@@ -1,0 +1,9 @@
+Compile:
+gcc file_name.c -o (output file name)
+or
+gcc file_name.c -- generates a.out
+
+Run:
+./(output file name)
+or
+./a.out
