@@ -16,11 +16,23 @@ Solutions of code coach problems of Sololearn in various programming languages w
   <tr>
     <td>
       <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/problems/Popsicles.txt" target="new">Popsicles</a>
+    </td>
+    <td>
       <a></a>
+    </td>
+    <td>
       <a></a>
+    </td>
+    <td>
       <a></a>
+    </td>
+    <td>
       <a></a>
+    </td>
+    <td>
       <a></a>
+    </td>
+    <td>
       <a></a>
     </td>
   </tr>
