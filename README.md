@@ -5,15 +5,13 @@ Solutions of code coach problems of Sololearn in various programming languages w
 ## Easy
 <table>
   <tr>
-  <th>
-    <td>Problems</td>
-    <td>C</td>
-    <td>C++</td>
-    <td>Java</td>
-    <td>Python</td>
-    <td>Javascript</td>
-    <td>Kotlin</td>
-  </th>
+    <th>Problems</th>
+    <th>C</th>
+    <th>C++</th>
+    <th>Java</th>
+    <th>Python</th>
+    <th>Javascript</th>
+    <th>Kotlin</th>
   </tr>
   <tr>
     <td>
