@@ -4,6 +4,7 @@ Solutions of code coach problems of Sololearn in various programming languages w
 
 ## Easy
 <table>
+  <tr>
   <th>
     <td>Problems</td>
     <td>C</td>
@@ -13,6 +14,7 @@ Solutions of code coach problems of Sololearn in various programming languages w
     <td>Javascript</td>
     <td>Kotlin</td>
   </th>
+  </tr>
   <tr>
     <td>
       <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/problems/Popsicles.txt" target="new">Popsicles</a>
