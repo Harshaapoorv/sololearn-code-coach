@@ -1,0 +1,10 @@
+Compile:
+As the installed compiler is Apple Clang compiler
+clang++ file_name.cpp
+or
+clang++ file_name.cpp -o (output file name)
+
+Run:
+./a.out
+or
+./output file name

@@ -1,0 +1,5 @@
+Compiler: 
+kotlinc fileName.kt -include-runtime -d hello.jar
+
+Run:
+java -jar hello.jar
