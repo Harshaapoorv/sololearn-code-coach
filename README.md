@@ -38,7 +38,7 @@ Solutions of code coach problems of Sololearn in various programming languages w
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/problems/HalloweenCandy.txt" target="_blank">Popsicles</a>
+      <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/problems/HalloweenCandy.txt" target="_blank">Halloween Candy</a>
     </td>
     <td>
       <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/c-solutions/halloween_candy.c" target="_blank">C Solution</a>
