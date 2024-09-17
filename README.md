@@ -38,25 +38,48 @@ Solutions of code coach problems of Sololearn in various programming languages w
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/problems/HalloweenCandy.txt" target="_blank">Halloween Candy</a>
+      <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/problems/FruitBowl.txt" target="_blank">Halloween Candy</a>
     </td>
     <td>
-      <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/c-solutions/halloween_candy.c" target="_blank">C Solution</a>
+      <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/c-solutions/fruit_bowl.c" target="_blank">C Solution</a>
     </td>
     <td>
-      <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/cpp-solutions/halloween_candy.cpp" target="_blank">C++ Solution</a>
+      <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/cpp-solutions/fruit_bowl.cpp" target="_blank">C++ Solution</a>
     </td>
     <td>
-      <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/java-solutions/HalloweenCandy.java" target="_blank">Java Solution</a>
+      <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/java-solutions/FruitBowl.java" target="_blank">Java Solution</a>
     </td>
     <td>
-      <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/python-solutions/halloween_candy.py" target="_blank">Python Solution</a>
+      <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/python-solutions/fruit_bowl.py" target="_blank">Python Solution</a>
     </td>
     <td>
       <a href="" target="_blank">Javascript Solution</a>
     </td>
     <td>
-      <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/kotlin-solutions/HalloweenCandy.kt" target="_blank">Kotlin Solution</a>
+      <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/kotlin-solutions/FruitBowl.kt" target="_blank">Kotlin Solution</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/problems/FruitBowl.txt" target="_blank">Fruit Bowl</a>
+    </td>
+    <td>
+      <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/c-solutions/fruit_bowl.c" target="_blank">C Solution</a>
+    </td>
+    <td>
+      <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/cpp-solutions/fruit_bowl.cpp" target="_blank">C++ Solution</a>
+    </td>
+    <td>
+      <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/java-solutions/FruitBowl.java" target="_blank">Java Solution</a>
+    </td>
+    <td>
+      <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/python-solutions/fruit_bowl.py" target="_blank">Python Solution</a>
+    </td>
+    <td>
+      <a href="" target="_blank">Javascript Solution</a>
+    </td>
+    <td>
+      <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/kotlin-solutions/FruitBowl.kt" target="_blank">Kotlin Solution</a>
     </td>
   </tr>
 </table>
