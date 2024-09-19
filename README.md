@@ -82,5 +82,28 @@ Solutions of code coach problems of Sololearn in various programming languages w
       <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/kotlin-solutions/FruitBowl.kt" target="_blank">Kotlin Solution</a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/problems/Candles.txt" target="_blank">Candles</a>
+    </td>
+    <td>
+      <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/c-solutions/candles.c" target="_blank">C Solution</a>
+    </td>
+    <td>
+      <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/cpp-solutions/candles.cpp" target="_blank">C++ Solution</a>
+    </td>
+    <td>
+      <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/java-solutions/Candles.java" target="_blank">Java Solution</a>
+    </td>
+    <td>
+      <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/python-solutions/candles.py" target="_blank">Python Solution</a>
+    </td>
+    <td>
+      <a href="" target="_blank">Javascript Solution</a>
+    </td>
+    <td>
+      <a href="https://github.com/Harshaapoorv/sololearn-code-coach/blob/main/kotlin-solutions/Candles.kt" target="_blank">Kotlin Solution</a>
+    </td>
+  </tr>
 </table>
 
